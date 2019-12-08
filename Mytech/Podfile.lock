@@ -1,0 +1,62 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - Masonry (1.1.0)
+  - MJRefresh (3.2.2)
+  - SDWebImage (5.3.2):
+    - SDWebImage/Core (= 5.3.2)
+  - SDWebImage/Core (5.3.2)
+  - SocketRocket (0.5.1)
+  - WechatOpenSDK (1.8.6)
+  - Weibo_SDK (3.2.5.1)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - AFNetworking
+  - Masonry
+  - MJRefresh
+  - SDWebImage
+  - SocketRocket
+  - WechatOpenSDK
+  - Weibo_SDK
+  - YYKit
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - Masonry
+    - MJRefresh
+    - SDWebImage
+    - SocketRocket
+    - WechatOpenSDK
+    - Weibo_SDK
+    - YYKit
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJRefresh: 72a46ecaa2a0feaf48fc5198dff95f25f8bb27c6
+  SDWebImage: 6ac2eb96571bff96ecde31a987172c5934a0eb7d
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+  WechatOpenSDK: 368ae03b72ee3ea1328c4f11326fbb5d2721d118
+  Weibo_SDK: 76455315cb43d6a63c1990bf91483f05a98d45fd
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: fc3e2575365610f2d578c045b36125cd3e0ecd9e
+
+COCOAPODS: 1.8.4
